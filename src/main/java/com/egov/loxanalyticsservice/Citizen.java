@@ -1,4 +1,4 @@
-package com.egov.socialservice;
+package com.egov.loxanalyticsservice;
 
 import lombok.Getter;
 import lombok.Setter;

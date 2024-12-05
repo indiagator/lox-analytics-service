@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.egov</groupId>
-    <artifactId>social-service</artifactId>
+    <artifactId>lox-analytics-service</artifactId>
     <version>dev-1</version>
-    <name>social-service</name>
-    <description>social-service</description>
+    <name>lox-analytics-service</name>
+    <description>lox-analytics-service</description>
     <url/>
     <licenses>
         <license/>
@@ -29,7 +29,6 @@
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2023.0.3</spring-cloud.version>
-        <kotlin.version>2.0.20</kotlin.version>
     </properties>
     <dependencies>
         <dependency>
